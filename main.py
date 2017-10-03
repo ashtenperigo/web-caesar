@@ -32,11 +32,11 @@ form = """
     </head>
     <body>
         <form method="post">
-            Rotate by: <input type="text" name="rot" value="0" >
+            Rotate by: <input type="text" name="rot" value="0">
 
             <br> 
 
-            <textarea name="text" > {0} </textarea>
+            <textarea name="text">{0}</textarea>
 
         <input type="submit" value="Submit Query">
 
